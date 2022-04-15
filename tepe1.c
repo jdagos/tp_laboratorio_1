@@ -6,7 +6,7 @@
  Copyright   : Your copyright notice
  Description : Trabajo practico laboratorio de programacion
  ============================================================================
- */
+ 
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -188,16 +188,7 @@ do{
 			}
 }while(opcionDos != 5);
 
-/*
 
-
-
-
-
-
-
-
-
-	//tome los km, el precio, la marca y el metodo de pago, me falta una funcion que calcule costos, una funcion que valide los datos ingresados
 
 }
+*/
