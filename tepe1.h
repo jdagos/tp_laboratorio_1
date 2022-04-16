@@ -3,7 +3,7 @@
  *
  *  Created on: Apr 9, 2022
  *      Author: juanc
- */
+ 
 
 #ifndef TEPE1_H_
 #define TEPE1_H_
@@ -22,4 +22,5 @@ float calcularBtc(float precio);
 float calcularPu (float precio, float km);
 
 float calcularDiferenciaDePrecios (float precioLatam, float precioAerolineas);
+*/
 #endif /* TEPE1_H_ */
