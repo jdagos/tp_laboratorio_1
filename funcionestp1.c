@@ -4,7 +4,7 @@
  *  Created on: Apr 9, 2022
  *      Author: juanc
  */
-#include <stdio.h>
+/*#include <stdio.h>
 #include <stdlib.h>
 #include "tepe1.h"
 
@@ -80,5 +80,5 @@ float calcularDiferenciaDePrecios (float precioLatam, float precioAerolineas){
 
 	return resultado;
 }
-
+*/
 
